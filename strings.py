@@ -1,7 +1,7 @@
 #Strings
 #immutable..
 #indexing start 0..
-#slicing..
+#slicing/indexing..
 
 a = "python"
 
