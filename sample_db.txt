@@ -1,0 +1,16 @@
+1-python-25
+2-perl-40
+3-shell-50
+4-c++-98
+1-python-25
+2-perl-40
+3-shell-50
+4-c++-98
+1-python-25
+2-perl-40
+3-shell-50
+4-c++-98
+1-python-25
+2-perl-40
+3-shell-50
+4-c++-98

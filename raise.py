@@ -5,8 +5,5 @@ a = int(input("enter a value"))
 print (a)
 
 if a < 0 :
-    try:
-        raise ("Don't give negative valuies")
-    except:
-        print ("test")
+    raise Exception("Don't give negative valuies")
 
