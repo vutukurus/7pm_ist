@@ -1,0 +1,6 @@
+##regex -->
+#lambdas, list comprehenssions..
+#multi threadn and processing..
+#pandas, numpy, matplot
+#generators, oops, decorators.
+
